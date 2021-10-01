@@ -1,7 +1,7 @@
-import { CardContent } from '@material-ui/core';
-import { lightBlue } from '@material-ui/core/colors';
-import { AirlineSeatLegroomExtra, ContactPhoneTwoTone, ViewColumn } from '@material-ui/icons';
-import { findByLabelText } from '@testing-library/dom';
+//import { CardContent } from '@material-ui/core';
+//import { lightBlue } from '@material-ui/core/colors';
+//import { AirlineSeatLegroomExtra, ContactPhoneTwoTone, ViewColumn } from '@material-ui/icons';
+//import { findByLabelText } from '@testing-library/dom';
 import styled from 'styled-components';
  
 export const Wrapper = styled.div`
